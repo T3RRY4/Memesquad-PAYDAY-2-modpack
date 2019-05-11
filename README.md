@@ -1,5 +1,3 @@
-@@ -1 +1,72 @@
-# memesquad_modpack
 # Memesquad Modpack (Русская версия гайда снизу)
 *Note that every single mod from this modpack is taken from [ModWorkshop.NET](https://modworkshop.net/) and [PaydayMods.COM](https://paydaymods.com/). You can find them here*
 ## Mod list
