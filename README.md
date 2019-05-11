@@ -2,8 +2,8 @@
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 ## Навигация
 * [Список модов](#список-модов)
-- [BLT Моды](#blt-моды)
-- [Override Моды](#override-моды)
+  * [BLT Моды](#blt-моды)
+  * [Override Моды](#override-моды)
 * [Установка](#установка)
 ## Список модов
 #### BLT Моды
