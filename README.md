@@ -1,11 +1,6 @@
 # Модпак Мемсквада
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 *Every single mod from this modpack is taken from [ModWorkshop.NET](https://modworkshop.net/) and [PaydayMods.COM](https://paydaymods.com/). You can find them on those sites.*
-## Навигация
-* [Установка](#установка)
-* [Список модов](#список-модов)
-  * [BLT Моды](#blt-моды)   
-  * [Override Моды](#override-моды)
 ## Установка
 1. Установить [SuperBLT](https://znix.xyz/random/payday-2/SuperBLT/latest-wsock.php) и [Microsoft Visual C++ 2017 Redistributable package (x86)](https://aka.ms/vs/15/release/VC_redist.x86.exe).
 2. Скачаный DLL перекинуть в папку с игрой.
