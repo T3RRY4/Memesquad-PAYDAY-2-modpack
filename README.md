@@ -1,7 +1,17 @@
-# Memesquad Modpack (Русская версия гайда снизу)
-*Note that every single mod from this modpack is taken from [ModWorkshop.NET](https://modworkshop.net/) and [PaydayMods.COM](https://paydaymods.com/). You can find them here*
-## Mod list
-#### BLT Mods
+# Модпак Мемсквада
+*Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
+## Навигация
+* [Установка](#установка)
+* [Список модов](#список-модов)
+  * [BLT Моды](#blt-моды)   
+  * [Override Моды](#override-моды)
+## Установка
+1. Установить [SuperBLT](https://superblt.znix.xyz).
+2. Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
+3. Распаковать содержимое папки *blt-mods* в папку с игрой.
+4. Распаковать содержимое папки *override-mods* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
+## Список модов
+#### BLT Моды
 * Additional PocoHud Trackers
 * Auto Fire Sound Fix
 * Akimbo Animation Tweaks
@@ -69,4 +79,15 @@
 * Update Banner Remover
 * Use Ability While Shooting or Driving
 * VELOSync
-
+#### Override Моды
+* CleanUI
+* FEDNET Icons
+* Coloured Loading Screens
+* Cyrillic Font Fix
+* Enchanced Hitmarkers
+* 8K ATMs от LemonCat
+* Fancy Map от LemonCat
+* New Blood Decals
+* No Corners Reborn
+* Outlines
+* PDTH Menu Sounds
