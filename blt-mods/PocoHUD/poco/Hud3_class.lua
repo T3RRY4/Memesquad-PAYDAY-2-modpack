@@ -2650,7 +2650,7 @@ function PocoHud3Class._drawHeistStats (tab)
 	y = 10
 	local descs = {}
 	tbl = {}
-	tbl[#tbl+1] = {{L('_word_heist'),cl.BlanchedAlmond},{L('_word_day'),cl.Honeydew},{L('_word_started'),cl.LavenderBlush},{L('_word_completed'),cl.Wheat},L('_word_time')}
+	tbl[#tbl+1] = {{L('_word_heist'),cl.BlanchedAlmond}},{L('_word_day'),cl.Honeydew},{L('_word_started'),cl.LavenderBlush},{L('_word_completed'),cl.Wheat},L('_word_time')}
 	local levels = _.g('managers.statistics._global.sessions.levels') or {}
 	-- search JobsChain
 	local addDay = function(val,prefix,suffix)
