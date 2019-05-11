@@ -2,6 +2,7 @@
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 ## Навигация
 * [Список модов](#список-модов)
+* [Установка](#установка)
 ## Список модов
 #### BLT Моды
 * Additional PocoHud Trackers
@@ -84,7 +85,7 @@
 * Outlines
 * PDTH Menu Sounds
 ## Установка
-- Установить [SuperBLT](https://superblt.znix.xyz).
-- Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
-- Распаковать содержимое папки *BLT моды* в папку с игрой.
-- Распаковать содержимое папки *Override моды* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
+1. Установить [SuperBLT](https://superblt.znix.xyz).
+2. Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
+3. Распаковать содержимое папки *BLT моды* в папку с игрой.
+4. Распаковать содержимое папки *Override моды* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
