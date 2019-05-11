@@ -2613,7 +2613,7 @@ function PocoHud3Class._drawHeistStats (tab)
 		end
 		local multi = managers.job:get_job_heat_multipliers(heist)
 		local color = multi >= 1 and math.lerp( cl.Khaki, cl.Chartreuse, 6*(multi - 1) ) or math.lerp( cl.Crimson, cl.OrangeRed, 3*(multi - 0.7) )
-		table.insert(rowObj,{{_.f(multi*100,5)..'%',color}},{' ('..(managers.job:get_job_heat(heist) or '?')..')',color:with_alpha(0.3)}})
+		table.insert(rowObj,{{_.f(multi*100,5)..'%',color},{' ('..(managers.job:get_job_heat(heist) or '?')..')',color:with_alpha(0.3)}})
 		tbl[#tbl+1] = rowObj
 	end
 	for host,jobs in _.p(host_list) do
@@ -2650,7 +2650,7 @@ function PocoHud3Class._drawHeistStats (tab)
 	y = 10
 	local descs = {}
 	tbl = {}
-	tbl[#tbl+1] = {{L('_word_heist'),cl.BlanchedAlmond}},{L('_word_day'),cl.Honeydew},{L('_word_started'),cl.LavenderBlush},{L('_word_completed'),cl.Wheat},L('_word_time')}
+	tbl[#tbl+1] = {{L('_word_heist'),cl.BlanchedAlmond},{L('_word_day'),cl.Honeydew},{L('_word_started'),cl.LavenderBlush},{L('_word_completed'),cl.Wheat},L('_word_time')}
 	local levels = _.g('managers.statistics._global.sessions.levels') or {}
 	-- search JobsChain
 	local addDay = function(val,prefix,suffix)
