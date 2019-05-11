@@ -1,10 +1,15 @@
 # Модпак Мемсквада
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 ## Навигация
+* [Установка](#установка)
 * [Список модов](#список-модов)
   * [BLT Моды](#blt-моды)
   * [Override Моды](#override-моды)
-* [Установка](#установка)
+## Установка
+1. Установить [SuperBLT](https://superblt.znix.xyz).
+2. Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
+3. Распаковать содержимое папки *BLT моды* в папку с игрой.
+4. Распаковать содержимое папки *Override моды* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
 ## Список модов
 #### BLT Моды
 * Additional PocoHud Trackers
@@ -86,8 +91,3 @@
 * No Corners Reborn
 * Outlines
 * PDTH Menu Sounds
-## Установка
-1. Установить [SuperBLT](https://superblt.znix.xyz).
-2. Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
-3. Распаковать содержимое папки *BLT моды* в папку с игрой.
-4. Распаковать содержимое папки *Override моды* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
