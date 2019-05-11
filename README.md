@@ -8,8 +8,8 @@
 ## Установка
 1. Установить [SuperBLT](https://superblt.znix.xyz).
 2. Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
-3. Распаковать содержимое папки *BLT моды* в папку с игрой.
-4. Распаковать содержимое папки *Override моды* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
+3. Распаковать содержимое папки *blt-mods* в папку с игрой.
+4. Распаковать содержимое папки *override-mods* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
 ## Список модов
 #### BLT Моды
 * Additional PocoHud Trackers
