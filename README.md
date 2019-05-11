@@ -83,3 +83,8 @@
 * No Corners Reborn
 * Outlines
 * PDTH Menu Sounds
+## Установка
+- Установить [SuperBLT](https://superblt.znix.xyz).
+- Скачать архив (Кнопка *Clone or download* сверху, *Download ZIP*).
+- Распаковать содержимое папки *BLT моды* в папку с игрой.
+- Распаковать содержимое папки *Override моды* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
