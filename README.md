@@ -6,7 +6,7 @@
 2. Скачаный DLL перекинуть в папку с игрой.
 3. Удалить папку *base* в папке *mods*, если такая имеется.
 4. Запустить игру для установки остальных файлов SuperBLT.
-5. Скачать [последнюю версию модпака](https://github.com/T3RRY4/Memesquad-PAYDAY-2-modpack/releases).
+5. Скачать [последний релиз модпака](https://github.com/T3RRY4/Memesquad-PAYDAY-2-modpack/releases).
 6. Распаковать содержимое папки *blt-mods* в папку с игрой.
 7. Распаковать содержимое папки *override-mods* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
 ## Список модов
