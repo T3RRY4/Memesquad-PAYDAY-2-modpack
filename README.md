@@ -7,7 +7,7 @@
   * [BLT Моды](#blt-моды)   
   * [Override Моды](#override-моды)
 ## Установка
-1. Установить [SuperBLT](https://znix.xyz/random/payday-2/SuperBLT/latest-wsock.php). Установить [Microsoft Visual C++ 2017 Redistributable package (x86)](https://aka.ms/vs/15/release/VC_redist.x86.exe). Если уже установлен BLT или BLT 2 - удалить. Также удалить папку mods/base (Не всю папку mods, а именно base).
+1. Установить [SuperBLT](https://znix.xyz/random/payday-2/SuperBLT/latest-wsock.php) и [Microsoft Visual C++ 2017 Redistributable package (x86)](https://aka.ms/vs/15/release/VC_redist.x86.exe).
 2. Скачаный DLL перекинуть в папку с игрой.
 3. Запустить игру для установки остальных файлов SuperBLT.
 4. Скачать [последнюю версию модпака](https://github.com/T3RRY4/Memesquad-PAYDAY-2-modpack/releases).
