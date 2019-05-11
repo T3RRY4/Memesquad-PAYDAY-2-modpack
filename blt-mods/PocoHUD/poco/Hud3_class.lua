@@ -2613,7 +2613,7 @@ function PocoHud3Class._drawHeistStats (tab)
 		end
 		local multi = managers.job:get_job_heat_multipliers(heist)
 		local color = multi >= 1 and math.lerp( cl.Khaki, cl.Chartreuse, 6*(multi - 1) ) or math.lerp( cl.Crimson, cl.OrangeRed, 3*(multi - 0.7) )
-		table.insert(rowObj,{{_.f(multi*100,5)..'%',color},{' ('..(managers.job:get_job_heat(heist) or '?')..')',color:with_alpha(0.3)}})
+		table.insert(rowObj,{{_.f(multi*100,5)..'%',color}},{' ('..(managers.job:get_job_heat(heist) or '?')..')',color:with_alpha(0.3)}})
 		tbl[#tbl+1] = rowObj
 	end
 	for host,jobs in _.p(host_list) do
