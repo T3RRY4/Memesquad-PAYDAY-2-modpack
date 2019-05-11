@@ -1,0 +1,13 @@
+{
+    "name" : "CivsDown",
+    "description" : "Changing the color of downed Civs.",
+    "author" : "FOX",
+    "contact" : "http://steamcommunity.com/id/brimstone_fox/",
+    "version" : "1.1",
+    "hooks" : [
+        {
+            "hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+            "script_path" : "civsdown.lua"
+        }
+    ]
+}

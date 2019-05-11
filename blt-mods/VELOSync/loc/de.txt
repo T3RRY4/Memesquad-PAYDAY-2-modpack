@@ -1,0 +1,12 @@
+{
+	"menu_velosync" : "VELOSync",
+	"menuvs_desc" : "Geschwindigkeiten der Husks veraendern",
+	"vs_keybind" : "FastAntiDesync aktivieren",
+	"vs_keybind_desc" : "Behebe extremen Desync mit einem Knopfdruck",
+	"vs_husk_default" : "Standardhuskgeschwindigkeit",
+	"vs_husk_default_desc" : "Die maximale Geschwindigkeit, mit der sich Husks normalerweise bewegen duerfen",
+	"vs_husk_fast" : "Schnelle Huskgeschwindigkeit",
+	"vs_husk_fast_desc" : "Die maximale Geschwindigkeit, mit der sich Husks bewegen duerfen, falls FastAntiDesync aktiviert ist",
+	"vs_pingbased" : "Pingbasierte Dynamische Adjustierung",
+	"vs_pingbased_desc": "Huskgeschwindigkeit wird basierend auf Ping dynamisch veraendert"
+}

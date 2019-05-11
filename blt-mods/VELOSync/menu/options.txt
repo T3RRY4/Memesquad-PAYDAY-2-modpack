@@ -1,0 +1,48 @@
+{
+	"menu_id": "velosync",
+	"parent_menu_id": "blt_options",
+	"title": "menu_velosync",
+	"description": "menuvs_desc",
+	"back_callback": "velosync_save",
+	"localized": true,
+	"items": [{
+			"type": "keybind",
+			"id": "vs_fastresolve",
+			"title": "vs_keybind",
+			"description": "vs_keybind_desc",
+			"keybind_id": "fastresolve",
+			"func": "vs_keybind",
+			"localized": true
+		},
+		{
+			"type": "divider",
+			"size": 64
+		},
+		{
+			"type": "slider",
+			"id": "velosync_defaulthuskspeed",
+			"title": "vs_husk_default",
+			"description": "vs_husk_default_desc",
+			"callback": "callback_huskspeedchange_d",
+			"value": "vshusk_default",
+			"default_value": 1,
+			"max": 10,
+			"min": 1,
+			"step": 0.5,
+			"localized": true
+		},
+		{
+			"type": "slider",
+			"id": "velosync_fasthuskspeed",
+			"title": "vs_husk_fast",
+			"description": "vs_husk_fast_desc",
+			"callback": "callback_huskspeedchange_f",
+			"value": "vshusk_fast",
+			"default_value": 300,
+			"max": 300,
+			"min": 10,
+			"step": 10,
+			"localized": true
+		}
+	]
+}

@@ -1,0 +1,7 @@
+<mod name="Akimbo Animation Tweaks">
+	<AssetUpdates id="22472" version="1.4" provider="modworkshop"/>
+	<AddFiles directory="assets">
+		<!--Literally only necessary because the akimbo soundbank lacks the sounds-->
+		<unit path="units/pd2_dlc_osa/weapons/wpn_fps_smg_x_erma/wpn_fps_smg_x_erma" force="true"/>
+	</table>
+</mod>

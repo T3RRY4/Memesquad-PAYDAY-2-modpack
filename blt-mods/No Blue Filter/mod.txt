@@ -1,0 +1,22 @@
+{
+	"name": "No blue filter + no hit flash",
+	"description": "does what it says eh",
+	"author": "Seamlink",
+	"contact": "seamlink@me.com",
+	"version": "v1",
+	"priority": 0,
+
+"persist_scripts" : [
+        {
+            "global" : "SetVideo",
+            "script_path" : "screwthoseffects.lua"
+        }
+        
+    ]
+
+
+
+}
+
+
+

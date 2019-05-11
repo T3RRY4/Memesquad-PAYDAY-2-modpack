@@ -1,0 +1,16 @@
+{
+	"name": "No Screen Shake",
+	"description": "Self-explanatory.",
+	"author": "Sydch",
+	"contact": "id/40X70N",
+	"version": "INIT",
+	"blt_version" : 2,
+	"image" : "doc/grunge.png",
+	"color" : "50 50 50",
+	"hooks": [
+		{  
+            "hook_id":"lib/units/beings/player/playercamera",
+			"script_path":"lua/lib/units/beings/player/playercamera.lua"
+		}
+	]
+}

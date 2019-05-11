@@ -1,0 +1,24 @@
+{
+	"name": "Use Ability While Shooting or Driving",
+	"description": "Allows using perk deck abilities while shooting or driving",
+	"author" : "Morganamilo",
+	"contact" : "http://steamcommunity.com/id/morganamilo",
+	"version" : "1.2",
+	"blt_version" : 2,
+	"color" : "255 0 221"
+	"image": "use-ability-while-shooting-or-driving.png",
+	"hooks": [
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerdriving",
+			"script_path" : "playerdriving.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerbipod",
+			"script_path" : "playerbipod.lua"
+		}
+	]
+}

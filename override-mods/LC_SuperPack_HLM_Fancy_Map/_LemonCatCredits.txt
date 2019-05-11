@@ -1,0 +1,21 @@
+--Pack Description--
+HiRes re-texture of the Hotline Miami Map and Crate Contents in the basement.
+I made this for people who prefer text to the blurry images.
+
+--Updates--
+
+--Notes--
+I am now using lzma2 compression in .7z files.
+
+--How to Install--
+Please use 7-zip, WinRAR, etc. to open the .7z file.
+These are the default folders for Texture Mods, and LUA mods:
+C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides
+C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\mods
+
+--License--
+No duplication, modification, or redistribution, without crediting LemonCat.
+LemonCat http://steamcommunity.com/id/cajadehu/
+
+--My Other Mods--
+LemonCatMods.com

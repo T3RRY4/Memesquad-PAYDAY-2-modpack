@@ -1,0 +1,25 @@
+{
+	"name" : "Ladder Improvements",
+	"description" : "Changes ladder behaviour to be more intuitive and less deadly.",
+	"author" : "Offyerrocker",
+	"contact" : "Discord: Offyerrocker#3878",
+	"version" : "1.0",
+	"blt_version" : 2,
+	"image" : "ihl_icon.png"
+	"color" : "255 128 0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playerdamage",
+			"script_path" : "playerdamage.lua"
+		}
+	],
+	"updates" : [
+		{
+			"identifier" : "laddersbehave"
+		}
+	]
+}

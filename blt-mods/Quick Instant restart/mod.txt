@@ -1,0 +1,35 @@
+{
+	"name": "Quick/Instant restart",
+	"description": "Quick/Instant restart with a preset keybind, only for non pro jobs",
+	"author": "FishTaco",
+	"contact": "http://steamcommunity.com/id/zo0mer170/",
+	"version": "1.1",
+	"updates" : 
+	[
+		{
+			"revision" : 2,
+			"identifier" : "QIR"
+		}
+	],
+	"keybinds": 
+	[
+		{
+			"keybind_id": "Quick_restart_selection",
+			"name": "Quick restart selection",
+			"description": "Quick restart with a preset keybind, only for non pro jobs",
+			"script_path": "Quick_restart.lua",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"localized": false
+		},
+		{
+			"keybind_id": "Intant_restart_instant",
+			"name": "Instant restart",
+			"description": "Instant restart with a preset keybind, only for non pro jobs",
+			"script_path": "Instant_restart.lua",
+			"run_in_menu": true,
+			"run_in_game": true,
+			"localized": false
+		}
+	]
+}

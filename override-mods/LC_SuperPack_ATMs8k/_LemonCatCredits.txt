@@ -1,0 +1,17 @@
+Pack Description:
+8k re-textures of the ATM for the banks. Original color schemes are used.
+
+Updates:
+
+
+Notes:
+I am now using lzma2 compression in .7z files.
+To prevent conflicts, please delete all of my previous folders.
+
+How to Install:
+Please use 7-zip to open the .7z file, and place the folders in:
+"C:\Program Files (x86)\Steam\SteamApps\common\PAYDAY 2\assets\mod_overrides"
+
+License:
+No duplication, modification, or redistribution, without crediting LemonCat.
+LemonCat: http://steamcommunity.com/id/cajadehu

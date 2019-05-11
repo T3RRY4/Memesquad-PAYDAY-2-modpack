@@ -1,0 +1,27 @@
+1.4
+- Fixed 'set' command to create replacements correctly
+- Added function replacements feature. Example: in this chat message "there are $!count enemies! enemies on the map" the $!..! part will be replaced with the result of 'count enemies'. Standard commands that support this: count, boc, calc, if. Replacements can be inside other replacements.
+- Added 'if' function. It returns first option if the condition is true and the second option if the condition is false. Example: "$!if 8==$!calc 2^3! -correct -incorrect!"  will return 'correct'.
+- Some fixes in 'onlaunch-remove'.
+- Added 'crep' command. It works like 'rep', but repeats the last command. 'rep' now only repeats normal chat messages.
+- If a command is entered with a typo in the end or in the beginning then the mod will list any similar commands.
+- Added 'every-delay' command. It delays the given command by the given number of seconds and then executes it one time.
+- Added 'exec' command. It loads up the specified file from the 'saves' folder and runs commands from it.
+- Added 'clear' command that clears the chat from messages.
+
+
+1.3
+- Added 'every' command.
+- Added 'hook' command.
+- Added 'event' command.
+- The calculator changed so that it will now do substracting before summing.
+- 'Hours' and 'skills' commands now accept player's peer_id as an option. This is useful when a player's name consists of characters that you cannot type (!hours -2).
+- Added 'updates' command that checks if there's a newer PowerChat version available.
+
+
+1.2
+- '!toall' now properly supports multiline output (try '!bash' then '!toall').
+- Fixed some commands not supporting custom 'opt_sym'.
+- Added '-reset' option to 'set' command which resets settings to default.
+- In '!dict' fixed the option to set languages only for current translation.
+- '!dict' will not mistake translations categories for translations anymore.

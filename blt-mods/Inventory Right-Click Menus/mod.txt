@@ -1,0 +1,13 @@
+{
+	       "name" : "Inventory Right-Click Menus",
+	"description" : "Gives a right-click menu option in the inventory for lazy people like myself!",
+	     "author" : "Undeadsewer",
+	    "contact" : "undeadsewer@gmail.com",
+	    "version" : "4",
+	      "hooks" : [
+						{ "hook_id" : "lib/managers/menu/blackmarketgui" , "script_path" : "lua/blackmarketgui.lua" }
+	                ],
+		"updates" : [
+						{ "revision" : 4 , "identifier" : "InventoryRightClickMenus" }
+	                ]
+}

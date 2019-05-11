@@ -1,0 +1,17 @@
+{
+	"name" : "Real Ammo",
+	"description" : "This will make your game count ammo in normal fashion. Clip/Total-Clip",
+	"author" : "FishTaco",
+	"contact" : "http://steamcommunity.com/id/zo0mer170/",
+	"version" : "1.0",
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "Realammo"
+		}
+	],
+	"hooks" : 
+	[
+		{"hook_id" : "lib/managers/hud/Hudteammate", "script_path" : "Real_ammo.lua"}
+	]
+}

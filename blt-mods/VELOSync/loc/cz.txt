@@ -1,0 +1,10 @@
+{
+"menu_velosync" : "VELOSync",
+"menuvs_desc" : "Změňte rychlost pohybu postav spoluhráčů",
+"vs_keybind" : "Spusťte FastAntiDesync funkci",
+"vs_keybind_desc" : "Vyřešte extrémní desynchronizaci zmáčknutím tlačítka",
+"vs_husk_default" : "Původní rychlost pohybu postav spoluhráčů",
+"vs_husk_default_desc" : "Maximální rychlost pohybu, kterou se mohou postavy spoluhráčů pohybovat",
+"vs_husk_fast" : "Rychlá rychlost pohybu postav spoluhráčů",
+"vs_husk_fast_desc" : "Maximální rychlost pohybu, kterou se můžou postavy spoluhráčů při použití funkce FastAntiDesync pohybovat"
+}

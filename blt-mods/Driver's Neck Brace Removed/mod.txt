@@ -1,0 +1,8 @@
+{
+	"name" : "Driver's Neck Brace Removed",
+	"hooks" : [
+		{ 	"hook_id" : "lib/units/beings/player/states/playerdriving",
+			"script_path" : "driverneckbraceremoved.lua"
+		}
+	]
+}

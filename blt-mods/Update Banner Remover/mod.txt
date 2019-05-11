@@ -1,0 +1,13 @@
+{
+	"name" : "Update Banner Remover",
+	"description" : "Removes the update banner from the main menu",
+	"author" : "Readfones",
+	"contact" : "https://steamcommunity.com/profiles/76561198159889238/",
+	"image" : "updatebannerremover.png",
+	"color" : "1 2 3",
+	"version" : "1.2",
+	"priority" : "1000",
+	"blt_version" : 2,
+	"updates" : [{ "identifier" : "NFN" }],
+	"hooks" : [{ "hook_id" : "lib/managers/menu/menucomponentmanager", "script_path" : "updatebannerremover.lua" }]
+}

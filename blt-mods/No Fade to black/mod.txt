@@ -1,0 +1,3 @@
+{
+    "hooks" : [{"hook_id" : "lib/managers/menumanager", "script_path" : "MenuManager.lua"}]
+}

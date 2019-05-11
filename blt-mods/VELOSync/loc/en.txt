@@ -1,0 +1,17 @@
+{
+	"menu_velosync" : "VELOSync",
+	"menuvs_desc" : "Change husk speeds",
+	"vs_keybind" : "Engage FastAntiDesync",
+	"vs_keybind_desc" : "Resolve extremely severe desync by pressing a button",
+	"vs_husk_default" : "Default husk speed",
+	"vs_husk_default_desc" : "The maximum speed husks may move by default",
+	"vs_husk_fast" : "Fast husk speed",
+	"vs_husk_fast_desc" : "The maximum speed husks may move when using FastAntiDesync",
+	"vs_pingbased" : "Ping-based Dynamic Adjust",
+	"vs_pingbased_desc": "Dynamically change the husk speed based on ping, might cause weird movement animations",
+	"vs_nodcf_warning_title": "VELOSync - Warning",
+	"vs_nodcf_warning_text": "DelayedCallsFix is not installed, dynamic adjust and FastAntiDesync are disabled.",
+	"vs_start_fad": "Fast AntiDesync engaged",
+	"vs_end_fad": "Desync resolved",
+	"vs_err_fad": "DelayedCallsFix is required to use this function"
+}

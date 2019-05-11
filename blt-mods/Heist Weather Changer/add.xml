@@ -1,0 +1,7 @@
+<!--test-->
+<table directory="assets">
+	<texture path="core/environments/skies/sky_night_storm/sky_night_storm"/>
+	<scene path="core/environments/skies/sky_night_storm/sky_night_storm"/>
+	<model path="core/environments/skies/sky_night_storm/sky_night_storm"/>
+	<material_config path="core/environments/skies/sky_night_storm/sky_night_storm"/>
+</table>

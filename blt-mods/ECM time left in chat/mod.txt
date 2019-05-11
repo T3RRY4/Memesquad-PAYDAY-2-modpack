@@ -1,0 +1,16 @@
+{
+	"name": "ECM time left in chat",
+	"description": "Informs you about low ECM level",
+	"author": "andole",
+	"version": "1.0",
+	"blt_version" : 2.0,
+	"color" : "0.6 0.3 0.5",
+	"contact": "\n http://steamcommunity.com/id/andole/",
+
+	"hooks": [
+		{
+			"hook_id": "lib/units/equipment/ecm_jammer/ecmjammerbase",
+			"script_path": "ecmjammerbase.lua"
+		}
+	]
+}

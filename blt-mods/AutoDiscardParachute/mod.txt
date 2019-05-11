@@ -1,0 +1,22 @@
+{
+	"blt_version" : 2,
+	"name" : "Auto-Discard Parachute",
+	"description" : "Automatically triggers a parachute throw upon landing(blt2 edit by B1te|RUS/ENG)",
+	"author" : "Snh20",
+	"image" : "autodiscardparachute.png"
+	"color" : "0.52 1 0",
+	"version" : "0.0.1",
+	"priority" : 10,
+	"updates" : [
+		{
+			"revision" : 1,
+			"identifier" : "autodiscardparachute"
+		}
+	],
+	"hooks" : [
+		{
+			"hook_id" : "lib/states/ingameparachuting",
+			"script_path" : "ingameparachuting.lua"
+		}
+	]
+}

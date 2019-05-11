@@ -1,0 +1,7 @@
+{
+	"rebuy_contract_title" : "Racheter le contrat",
+	"rebuy_contract_message" : "Voulez-vous racheter le contrat?",
+	"rebuy_contract_desc" : "Avec ce bouton, vous allez racheter le dernier contract que vous avez fait.",
+	"rebuy_contract_no_funds" : "Pas assez d'argent",
+	"rebuy_contract_success" : "Contrat racheté",
+}

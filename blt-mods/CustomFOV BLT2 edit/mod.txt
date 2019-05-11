@@ -1,0 +1,16 @@
+{
+	"name" : "CustomFOV",
+	"description" : "Custom fov multipler",
+	"author" : "=U$= -Gesicht-",
+	"version" : "1.0.0",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/init.lua"
+		},
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "lua/CustomFOV.lua"
+		}
+	]
+}

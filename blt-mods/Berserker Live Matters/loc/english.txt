@@ -1,0 +1,33 @@
+{
+	"Berserker_Help_mod_main_menu_title" : "Berserker Live Matters",
+	"Berserker_Help_mod_main_menu_desc" : "Change the health multiplier after revive",
+
+	"Berserker_Help_mod_disable_title" : "Disable BLM health multiplier features",
+	"Berserker_Help_mod_disable_desc" : "Disables health multiplier features of this mod. Also disables them for other BLM users in your lobby.",
+
+	"Berserker_Help_mod_mult_title" : "Health Multiplier",
+	"Berserker_Help_mod_mult_desc" : "Health Multiplier after revive",
+
+	"Berserker_Help_mod_combat_cancer_title" : "Deactivate Combat Medic Ace effect",
+	"Berserker_Help_mod_combat_cancer_desc" : "When ticked combat medic ace will not give you 30% extra health after a revive",
+
+	"Berserker_Help_mod_hacker_cancer_title" : "Deactivate Botnet (Hacker Tier 9) effect",
+	"Berserker_Help_mod_hacker_cancer_desc" : "When ticked a kill while a teammate's pocket ecm is active will not grant health",
+
+	"Berserker_Help_mod_active_title" : "Affected builds",
+	"Berserker_Help_mod_active_desc" : "Decides which builds the mod affects: All - Every Build; Berserker - Builds with at least Berserker Basic; Berserker Ace - Builds with Berserker Ace",
+
+	"Berserker_Help_mod_active_1" : "All",
+	"Berserker_Help_mod_active_2" : "Berserker",
+	"Berserker_Help_mod_active_3" : "Berserker Ace",
+
+	"Berserker_Help_mod_fixed_title" : "Fixed max health",
+	"Berserker_Help_mod_fixed_desc" : "Sets the maximum health to revive multiplier, not unlike frenzy. But unlike frenzy doesn't give other effects.",
+
+	"Berserker_Help_mod_lobby_disabled" : "Health multiplier features are disabled in this lobby.",
+	"Berserker_Help_mod_lobby_enabled" : "Health multiplier features are no longer disabled.",
+
+	"Berserker_Help_mod_1mult" : "Default",
+	"Berserker_Help_mod_2mult" : "10%",
+	"Berserker_Help_mod_3mult" : "0%"
+}

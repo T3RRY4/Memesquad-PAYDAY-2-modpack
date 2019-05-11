@@ -1,0 +1,1 @@
+MenuComponentManager.play_transition = function() end

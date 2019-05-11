@@ -1,0 +1,7 @@
+{
+	"rebuy_contract_title" : "Rebuy contract",
+	"rebuy_contract_message" : "Do you want to rebuy the contract?",
+	"rebuy_contract_desc" : "With this button you will rebuy the last contract you had.",
+	"rebuy_contract_no_funds" : "Not enough funds",
+	"rebuy_contract_success" : "Rebought contract",
+}

@@ -1,0 +1,12 @@
+{
+    "menu_velosync" : "VELOSync",
+    "menuvs_desc" : "Cambia la velocità dei compagni di squadra",
+    "vs_keybind" : "Utilizza la funzione FastAntiDesync",
+    "vs_keybind_desc" : "Risolvi l'estrema desincronizzazione premendo un tasto",
+    "vs_husk_default" : "Velocità dei compagni di squadra",
+    "vs_husk_default_desc" : "Imposta la velocità massima con la quale i compagni di squadra possono muoversi",
+    "vs_husk_fast" : "Alta velocità",
+    "vs_husk_fast_desc" : "Imposta la velocità massima con la quale i compagni di squadra possono muoversi mentre è attiva la funzione FastAntiDesync",
+    "vs_pingbased" : "Velocità di movimento dinamica basata sul ping",
+    "vs_pingbased_desc": "Cambia in modo dinamico la velocità di movimento dei compagni di squadra basandosi sul loro ping"
+}

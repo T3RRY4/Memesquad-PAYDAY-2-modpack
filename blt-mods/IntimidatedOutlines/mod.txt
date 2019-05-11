@@ -1,0 +1,34 @@
+{
+	"name" : "Intimidated Outlines",
+	"description" : "Applies a colored contour on intimidated cops.",
+	"author" : "Undeadsewer, Snh20, Girnee",
+	"contact" : "undeadsewer@gmail.com",
+	"version" : "4",
+	"priority" : 10,
+	"hooks" : [
+		{
+			"hook_id" : "lib/units/enemies/cop/copmovement",
+			"script_path" : "lib/units/enemies/cop/copmovement.lua"
+		},
+		{
+			"hook_id" : "lib/units/enemies/cop/copdamage",
+			"script_path" : "lib/units/enemies/cop/copdamage.lua"
+		},
+		{
+			"hook_id" : "lib/units/enemies/cop/huskcopdamage",
+			"script_path" : "lib/units/enemies/cop/huskcopdamage.lua"
+		},
+		{
+			"hook_id" : "lib/managers/group_ai_states/groupaistatebase",
+			"script_path" : "lib/managers/group_ai_states/groupaistatebase.lua"
+		},
+		{
+			"hook_id" : "lib/network/handlers/unitnetworkhandler",
+			"script_path" : "lib/network/handlers/unitnetworkhandler.lua"
+		},
+		{
+			"hook_id" : "lib/units/contourext",
+			"script_path" : "lib/units/contourext.lua"
+		}
+	]
+}

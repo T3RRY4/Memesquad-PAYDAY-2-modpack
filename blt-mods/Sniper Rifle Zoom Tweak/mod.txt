@@ -1,0 +1,13 @@
+{
+	"name": "Sniper Rifle Zoom Tweak",
+	"description": "This mod changes default zoom level on sniper rifles from 1 (lowest) to 3 (most common default zoom level).",
+	"author": "McKillem",
+	"version": "1.00",
+	"priority": 0,
+	"hooks": [
+		{
+			"hook_id": "lib/tweak_data/weapontweakdata",
+			"script_path": "srzt.lua"
+		}
+	]
+}

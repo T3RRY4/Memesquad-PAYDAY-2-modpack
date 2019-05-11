@@ -1,0 +1,39 @@
+{
+    "name" : "Berserker Live Matters",
+    "description" : "Sets health to a specific level to get the best out of berserker.\nCredits for Combat Medic Cancer to Frankelstner & Neal",
+    "author" : "\n-Berserker Live Matters: LudorExperiens\n-Combat Medic Cancer: Frankelstner & Neal",
+    "contact" : "http://steamcommunity.com/id/ludorexperiens",
+    "version" : "1.3",
+	"blt_version" : 2,
+	"image"	: "blm.png",
+    "hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager", 
+			"script_path" : "lua/BerserkerLiveMatters.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playerdamage", 
+			"script_path" : "lua/combatmediccancer.lua"
+		},
+		{
+			"hook_id" : "lib/network/base/networkpeer",
+			"script_path" : "lua/networkpeer.lua"
+		},
+		{
+			"hook_id" : "lib/managers/chatmanager",
+			"script_path" : "lua/chatmanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/playerinventory",
+			"script_path" : "lua/hackercancer.lua"
+		}
+    ]
+	"updates" : [
+		{
+			"identifier" : "BerserkerLiveMatters",
+			"host": {
+				"meta": "https://www.dropbox.com/s/3uhnqdlav3uctsk/meta?raw=1"
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"name": "speedyxp",
+	"description": "speedyxp",
+	"author": "Hejoro",
+	"contact": "UC",
+	"version": "1",
+	"priority": 66,
+	"hooks": [
+		{
+			"hook_id": "lib/states/missionendstate",
+			"script_path": "speedyxp.lua"
+		}
+	]
+}

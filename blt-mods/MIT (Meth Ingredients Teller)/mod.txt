@@ -1,0 +1,28 @@
+{
+    "name" : "Ingredients Teller For Cook Off And Rats",
+    "description" : "Instantly says in chat what the right ingredient is and when the meth is done or ingredients are placed on rats d1 and cook off",
+    "author" : "Moontiz; original lua by Cloaker Magnet",
+    "contact" : "PM me on steam @ steamcommunity.com/id/TheWeirdoMoontiz/",
+    "version" : "1.0.1",
+    "blt_version" : 2.0,
+    "color" : "75 0 130",
+    "image" : "logo.png",
+    "hooks" : [
+   
+	{
+		"hook_id" : "lib/managers/DialogManager"
+		"script_path" : "ingredients.lua"
+	}
+    ],
+	"keybinds" : [
+		{
+			"keybind_id" : "MH-GUI_keybind",
+			"name" : "Toggle Ingredients Teller",
+			"description" : "Turns the Ingredients Teller from chat mode to hint mode",
+			"script_path" : "toggle.lua",
+			"run_in_menu" : false,
+			"run_in_game" : true,
+			"localized" : false
+		}
+	]
+}
