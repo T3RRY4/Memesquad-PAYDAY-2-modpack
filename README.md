@@ -1,7 +1,7 @@
 # Модпак Мемсквада
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 ## Навигация
-* [Список модов](#Список)
+* [Список модов](#список-модов)
 ## Список модов
 #### BLT Моды
 * Additional PocoHud Trackers
