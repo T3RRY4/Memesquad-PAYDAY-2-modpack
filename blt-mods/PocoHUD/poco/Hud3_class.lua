@@ -2606,7 +2606,7 @@ function PocoHud3Class._drawHeistStats (tab)
 			local c = managers.statistics._global.sessions.jobs[(heist .. '_' .. tweak_data:index_to_difficulty( i + 1 ) .. '_completed'):gsub('_wrapper','')] or 0
 			local f = managers.statistics._global.sessions.jobs[(heist .. '_' .. tweak_data:index_to_difficulty( i + 1 ) .. '_started'):gsub('_wrapper','')] or 0
 			if i > 1 or not pro then
-				table.insert(rowObj, {{c, c<1 and cl.Salmon or cl.White:with_alpha(0.8)},{' / '..f,cl.White:with_alpha(0.4)}})
+				table.insert(rowObj, {{c, c<1 and cl.Salmon or cl.White:with_alpha(0.8)}},{' / '..f,cl.White:with_alpha(0.4)}})
 			else
 				table.insert(rowObj, {c > 0 and c or L('_word_na'), cl.Tan:with_alpha(0.4)})
 			end
