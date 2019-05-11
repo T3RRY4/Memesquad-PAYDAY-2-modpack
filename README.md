@@ -7,10 +7,14 @@
   * [BLT Моды](#blt-моды)   
   * [Override Моды](#override-моды)
 ## Установка
-1. Установить [SuperBLT](https://superblt.znix.xyz).
-2. Скачать [последнюю версию модпака](https://github.com/T3RRY4/Memesquad-PAYDAY-2-modpack/releases).
-3. Распаковать содержимое папки *blt-mods* в папку с игрой.
-4. Распаковать содержимое папки *override-mods* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
+1. Установить [SuperBLT](https://znix.xyz/random/payday-2/SuperBLT/latest-wsock.php).
+ 1.1. Установить [Microsoft Visual C++ 2017 Redistributable package (x86)](https://aka.ms/vs/15/release/VC_redist.x86.exe).
+ 1.2. Если уже установлен BLT или BLT 2 - удалить. Также удалить папку mods/base (Не всю папку mods, а именно base).
+2. Скачаный DLL перекинуть в папку с игрой.
+3. Запустить игру для установки остальных файлов SuperBLT.
+4. Скачать [последнюю версию модпака](https://github.com/T3RRY4/Memesquad-PAYDAY-2-modpack/releases).
+5. Распаковать содержимое папки *blt-mods* в папку с игрой.
+6. Распаковать содержимое папки *override-mods* в PAYDAY 2/assets/mod_overrides (Если такой папки нет - создать).
 ## Список модов
 #### BLT Моды
 * Additional PocoHud Trackers
