@@ -11,7 +11,6 @@
 7. Распаковать содержимое папки **override-mods** в PAYDAY 2/assets/**mod_overrides** (Если такой папки нет - создать).
 ## Список модов
 #### BLT Моды
-* Additional PocoHud Trackers
 * Auto Fire Sound Fix
 * Akimbo Animation Tweaks
 * Assault States
@@ -22,7 +21,6 @@
 * Better Bots
 * Big Oil Engine Helper
 * Bot Weapons
-* Carry Stacker Reloaded
 * Change Lobby Name Anytime
 * Chromatic Aberration Fix
 * CivsDown
@@ -35,30 +33,26 @@
 * Drag and Drop Inventory
 * Driver's Neck Brace Removed
 * ECM Time Left in Chat
-* Enemy Health and Info
 * Enchanced Hitmarkers
 * Enchanced Fast.NET
 * Goonmod Shop Standalone
 * Heist Weather Changer
-* Holoinfo
 * Infamy Card Priority
 * Intimidated Outlines
 * Inventory Right-Click Menus
 * Ladder Improvements
 * Lobby Player Info
-* Menu Backgrounds
-* MIT (Meth Ingredients Teller)
+* Meth Helper
 * Mod List Lite
 * More Weapon Stats
 * Name Tags
 * No Blue Filter
 * No Fade to Black
-* No Screen Shacke
+* No Screen Shake
 * Perfect Viewmodel
 * Perfomance Comes First
-* Toggle Interact
-* PocoHUD
 * PowerChat
+* Prevent Pausing When Someone Joins
 * Quick Instant Restart
 * Real Ammo
 * Rebuy Contract
@@ -68,7 +62,6 @@
 * Silent Assassin
 * Skip and Auto-Select
 * Sniper Rifle Zoom Tweak
-* Skip XP Screen
 * Stale Lobby Contract Fix
 * Steam Profile Redirection
 * Steam Inventory In Lobby
@@ -78,8 +71,13 @@
 * Update Banner Remover
 * Use Ability While Shooting or Driving
 * VELOSync
+* WolfHUD
 #### Override Моды
 * CleanUI
+* Darknet Crime.net Map (Crime.net Europe Map)
+* Dead Game (Payday 2)
+* Dickbutt >!P.E.O.C Painting
+* Drill Helper
 * FEDNET Icons
 * Coloured Loading Screens
 * Cyrillic Font Fix
@@ -89,4 +87,9 @@
 * New Blood Decals
 * No Corners Reborn
 * Outlines
-* PDTH Menu Sounds
+* >!P.E.O.C OS - Powered by Windows 10
+* Realistic FBI Monitors
+* Russian Assets
+* Russian Preplanning
+* Secret Tablet English Translation
+* Secret Vault English Translation
