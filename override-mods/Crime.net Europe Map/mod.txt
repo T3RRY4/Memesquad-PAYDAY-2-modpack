@@ -1,0 +1,5 @@
+{
+  "Name": "Crime.net Europe Map",
+  "Author": "Kozmo",
+  "Description": "Europe Map of Crime.net"
+}
