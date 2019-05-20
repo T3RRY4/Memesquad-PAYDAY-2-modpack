@@ -76,7 +76,7 @@
 * CleanUI
 * Darknet Crime.net Map (Crime.net Europe Map)
 * Dead Game (Payday 2)
-* Dickbutt >!P.E.O.C Painting
+* Dickbutt [spoiler]P.E.O.C Painting[/spoiler]
 * Drill Helper
 * FEDNET Icons
 * Coloured Loading Screens
@@ -87,7 +87,7 @@
 * New Blood Decals
 * No Corners Reborn
 * Outlines
-* >!P.E.O.C OS - Powered by Windows 10
+* [spoiler]P.E.O.C OS - Powered by Windows 10[/spoiler]
 * Realistic FBI Monitors
 * Russian Assets
 * Russian Preplanning
