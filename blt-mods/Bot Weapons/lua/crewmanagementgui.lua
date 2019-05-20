@@ -383,10 +383,9 @@ function CrewManagementGui:populate_primaries(henchman_index, data, gui)
   gui:populate_weapon_category_new(data)
   local loadout = managers.blackmarket:henchman_loadout(henchman_index)
   for k, v in ipairs(data) do
-    local tweak = tweak_data.weapon[v.name]
     v.equipped = not v.locked_slot and not v.empty_slot and loadout.primary_slot == v.slot and loadout.primary_category == v.category
     v.comparision_data = nil
-    if tweak and (not managers.blackmarket:is_weapon_category_allowed_for_crew(tweak.categories[1]) or not BotWeapons:get_npc_version(v.name)) then
+    if not managers.blackmarket:is_weapon_allowed_for_crew(v.name) or not BotWeapons:get_npc_version(v.name) then
       v.buttons = {}
       v.unlocked = false
       v.lock_texture = "guis/textures/pd2/lock_incompatible"
