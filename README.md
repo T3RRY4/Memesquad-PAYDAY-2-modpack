@@ -11,85 +11,85 @@
 7. Распаковать содержимое папки **override-mods** в PAYDAY 2/assets/**mod_overrides** (Если такой папки нет - создать).
 ## Список модов
 #### BLT Моды
-* Auto Fire Sound Fix
-* Akimbo Animation Tweaks
-* Assault States
-* Auto Discard Parachute
-* Bag Contour
-* BeardLib
-* Berserker Live Matters
-* Better Bots
-* Big Oil Engine Helper
-* Bot Weapons
-* Change Lobby Name Anytime
-* Chromatic Aberration Fix
-* CivsDown
-* Create Empty Lobby
-* CustomFOV
-* Delayed Calls Fix
-* Difficulty Screen Animation
-* Disabled Skin Included Modifications
-* Disable Fog
-* Drag and Drop Inventory
-* Driver's Neck Brace Removed
-* ECM Time Left in Chat
-* Enchanced Hitmarkers
-* Enchanced Fast.NET
-* Goonmod Shop Standalone
-* Heist Weather Changer
-* Infamy Card Priority
-* Intimidated Outlines
-* Inventory Right-Click Menus
-* Ladder Improvements
-* Lobby Player Info
-* Meth Helper
-* Mod List Lite
-* More Weapon Stats
-* Name Tags
-* No Blue Filter
-* No Fade to Black
-* No Screen Shake
-* Perfect Viewmodel
-* Perfomance Comes First
-* PowerChat
-* Prevent Pausing When Someone Joins
-* Quick Instant Restart
-* Real Ammo
-* Rebuy Contract
-* Reconnect to Server
-* Reload Then Run
-* Search Inventory
-* Silent Assassin
-* Skip and Auto-Select
-* Sniper Rifle Zoom Tweak
-* Stale Lobby Contract Fix
-* Steam Profile Redirection
-* Steam Inventory In Lobby
-* Stop The Crimespree Loss On Crash
-* Straight To Main Menu
-* The Fixes
-* Update Banner Remover
-* Use Ability While Shooting or Driving
-* VELOSync
-* WolfHUD
+* [Auto Fire Sound Fix](https://modworkshop.net/mydownloads.php?action=view_down&did=20403)
+* [Akimbo Animation Tweaks](https://modworkshop.net/mydownloads.php?action=view_down&did=22472)
+* [Assault States](https://modworkshop.net/mydownloads.php?action=view_down&did=19391)
+* [Auto Discard Parachute](https://modworkshop.net/mydownloads.php?action=view_down&did=15579)
+* [Bag Contour](https://modworkshop.net/mydownloads.php?action=view_down&did=13434)
+* [BeardLib](https://github.com/simon-wh/PAYDAY-2-BeardLib)
+* [Berserker Live Matters](https://modworkshop.net/mydownloads.php?action=view_down&did=19579)
+* [Better Bots](https://modworkshop.net/mydownloads.php?action=view_down&did=12736)
+* [Big Oil Engine Helper](https://modworkshop.net/mydownloads.php?action=view_down&did=19901)
+* [Bot Weapons and Equipment](https://modworkshop.net/mydownloads.php?action=view_down&did=12852)
+* [Change Lobby Name Anytime](https://modworkshop.net/mydownloads.php?action=view_down&did=22480)
+* [Chromatic Aberration Fix](https://modworkshop.net/mydownloads.php?action=view_down&did=24205)
+* [CivsDown](https://modworkshop.net/mydownloads.php?action=view_down&did=16724)
+* [Create Empty Lobby](https://modworkshop.net/mydownloads.php?action=view_down&did=14791)
+* [CustomFOV](https://modworkshop.net/mydownloads.php?action=view_down&did=20801)
+* [Delayed Calls Fix](https://paydaymods.com/mods/362/delayedcallsfix)
+* [Difficulty Screen Animation](https://modworkshop.net/mydownloads.php?action=view_down&did=20020)
+* [Disabled Skin Included Modifications](https://modworkshop.net/mydownloads.php?action=view_down&did=19603)
+* Disable Fog *(ссылка в сделку не входила, просто знайте что мод не мой)*
+* [Drag and Drop Inventory](https://modworkshop.net/mydownloads.php?action=view_down&did=14217)
+* [Driver's Neck Brace Removed](https://modworkshop.net/mydownloads.php?action=view_down&did=13569)
+* [ECM Time Left in Chat](https://modworkshop.net/mydownloads.php?action=view_down&did=24350)
+* [Enchanced Hitmarkers](https://modworkshop.net/mydownloads.php?action=view_down&did=13436)
+* [Enchanced Fast.NET](https://github.com/Kamikaze94/Enhanced-Fast.Net)
+* [Goonmod Shop Standalone](https://modworkshop.net/mydownloads.php?action=view_down&did=19109)
+* [Heist Weather Changer](https://modworkshop.net/mydownloads.php?action=view_down&did=19626)
+* [Infamy Card Priority](https://modworkshop.net/mydownloads.php?action=view_down&did=20358)
+* [Intimidated Outlines](https://modworkshop.net/mydownloads.php?action=view_down&did=13584)
+* [Inventory Right-Click Menus](https://modworkshop.net/mydownloads.php?action=view_down&did=17381)
+* [Ladder Improvements](https://modworkshop.net/mydownloads.php?action=view_down&did=23192)
+* [Lobby Player Info](https://paydaymods.com/mods/41/)
+* [Meth Helper](https://modworkshop.net/mydownloads.php?action=view_down&did=14050)
+* [Mod List Lite](https://paydaymods.com/mods/551/mll)
+* [More Weapon Stats](https://paydaymods.com/mods/138/)
+* [Name Tags](https://modworkshop.net/mydownloads.php?action=view_down&did=23719)
+* [No Blue Filter](https://modworkshop.net/mydownloads.php?action=view_down&did=16843)
+* [No Fade to Black](https://modworkshop.net/mydownloads.php?action=view_down&did=17257)
+* [No Screen Shake](https://modworkshop.net/mydownloads.php?action=view_down&did=22471)
+* [Perfect Viewmodel](https://modworkshop.net/mydownloads.php?action=view_down&did=17618)
+* [Perfomance Comes First](https://modworkshop.net/mydownloads.php?action=view_down&did=24706)
+* [PowerChat](https://modworkshop.net/mydownloads.php?action=view_down&did=21411)
+* [Prevent Pausing When Someone Joins](https://modworkshop.net/mydownloads.php?action=view_down&did=18703)
+* [Quick/Instant Restart](https://modworkshop.net/mydownloads.php?action=view_down&did=14729)
+* [Real Ammo](https://modworkshop.net/mydownloads.php?action=view_down&did=15108)
+* [Rebuy Contract](https://modworkshop.net/mydownloads.php?action=view_down&did=15140)
+* [Reconnect to Server](https://modworkshop.net/mydownloads.php?action=view_down&did=13546)
+* [Reload Then Run](https://modworkshop.net/mydownloads.php?action=view_down&did=13443)
+* [Search Inventory](https://paydaymods.com/mods/668/SI)
+* [Silent Assassin](https://paydaymods.com/mods/304/silent)
+* [Skip and Auto-Select](https://modworkshop.net/mydownloads.php?action=view_down&did=13511)
+* [Sniper Rifle Zoom Tweak](https://modworkshop.net/mydownloads.php?action=view_down&did=20145)
+* [Stale Lobby Contract Fix](https://paydaymods.com/mods/277/stalelobbycontractfix)
+* [Steam Profile Redirection](https://modworkshop.net/mydownloads.php?action=view_down&did=20035)
+* [Steam Inventory In Lobby](https://modworkshop.net/mydownloads.php?action=view_down&did=19350)
+* [Stop The Crimespree Loss On Crash](https://modworkshop.net/mydownloads.php?action=view_down&did=19568)
+* [Straight To Main Menu](https://modworkshop.net/mydownloads.php?action=view_down&did=14789)
+* [The Fixes](https://modworkshop.net/mydownloads.php?action=view_down&did=23732)
+* [Update Banner Remover](https://modworkshop.net/mydownloads.php?action=view_down&did=23880)
+* [Use Ability While Shooting or Driving](https://modworkshop.net/mydownloads.php?action=view_down&did=22662)
+* [VELOSync](https://modworkshop.net/mydownloads.php?action=view_down&did=15451)
+* [WolfHUD](https://github.com/Kamikaze94/WolfHUD)
 #### Override Моды
-* CleanUI
-* Darknet Crime.net Map (Crime.net Europe Map)
-* Dead Game (Payday 2)
-* Dickbutt P.E.O.C Painting
-* Drill Helper
-* FEDNET Icons
-* Coloured Loading Screens
-* Cyrillic Font Fix
-* Enchanced Hitmarkers
-* 8K ATMs от LemonCat
-* Fancy Map от LemonCat
-* New Blood Decals
-* No Corners Reborn
-* Outlines
-* P.E.O.C OS - Powered by Windows 10
-* Realistic FBI Monitors
-* Russian Assets
-* Russian Preplanning
-* Secret Tablet English Translation
-* Secret Vault English Translation
+* [CleanUI](https://modworkshop.net/mydownloads.php?action=view_down&did=20792)
+* [Darknet Crime.net Map (Crime.net Europe Map)](https://modworkshop.net/mydownloads.php?action=view_down&did=14254)
+* [Dead Game (Payday 2)](https://modworkshop.net/mydownloads.php?action=view_down&did=23427)
+* [Dickbutt P.E.O.C Painting](https://modworkshop.net/mydownloads.php?action=view_down&did=24804)
+* [Drill Helper](https://modworkshop.net/mydownloads.php?action=view_down&did=14947)
+* [FEDNET Icons](https://modworkshop.net/mydownloads.php?action=view_down&did=16010)
+* [Coloured Loading Screens](https://modworkshop.net/mydownloads.php?action=view_down&did=21441)
+* [Cyrillic Font Fix](https://modworkshop.net/mydownloads.php?action=view_down&did=24472)
+* [Enhanced Hitmarkers](https://modworkshop.net/mydownloads.php?action=view_down&did=13436)
+* [8K ATMs от LemonCat](https://modworkshop.net/mydownloads.php?action=mysubmissions&uid=3016)
+* [Fancy Map от LemonCat](https://modworkshop.net/mydownloads.php?action=mysubmissions&uid=3016)
+* [New Blood Decals](https://modworkshop.net/mydownloads.php?action=view_down&did=790#images)
+* [No Corners Reborn](https://modworkshop.net/mydownloads.php?action=view_down&did=20561)
+* Outlines *(ссылка в сделку не входила, можете поискать в гугле, там несколько модов)*
+* [P.E.O.C OS - Powered by Windows 10](https://modworkshop.net/mydownloads.php?action=view_down&did=23937)
+* [Realistic FBI Monitors](https://modworkshop.net/mydownloads.php?action=view_down&did=18691)
+* Russian Assets *(ссылка в сделку не входила, просто знайте что мод не мой)*
+* Russian Preplanning *(ссылка в сделку не входила, просто знайте что мод не мой)*
+* [Secret Tablet English Translation](https://modworkshop.net/mydownloads.php?action=view_down&did=23847)
+* [Secret Vault English Translation](https://modworkshop.net/mydownloads.php?action=view_down&did=23838)
