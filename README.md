@@ -10,7 +10,7 @@
 5. Скачать [последний релиз модпака](https://github.com/T3RRY4/Memesquad-PAYDAY-2-modpack/releases).
 6. Распаковать содержимое папки **blt-mods** в папку с игрой.
 7. Распаковать содержимое папки **override-mods** в PAYDAY 2/assets/**mod_overrides** (Если такой папки нет - создать).
-## Список модов
+## Список модов (не обновляется, смотрите в папках)
 #### BLT Моды
 * [Auto Fire Sound Fix](https://modworkshop.net/mydownloads.php?action=view_down&did=20403)
 * [Akimbo Animation Tweaks](https://modworkshop.net/mydownloads.php?action=view_down&did=22472)
