@@ -1,3 +1,4 @@
+![](https://i.imgur.com/88jUKGi.png)
 # Модпак Мемсквада
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 *Every single mod from this modpack is taken from [ModWorkshop.NET](https://modworkshop.net/) and [PaydayMods.COM](https://paydaymods.com/). You can find them on those sites.*
