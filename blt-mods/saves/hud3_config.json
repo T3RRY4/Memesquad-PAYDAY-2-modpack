@@ -1,0 +1,48 @@
+{
+           "buff": {
+                             "buffSize": 45,
+                              "justify": 3,
+                               "maxFPS": 80,
+                         "showKillshot": true,
+                       "showSuppressed": true,
+                                "style": 2,
+                            "xPosition": 96,
+                            "yPosition": 90
+                   },
+           "chat": {
+                               "custody": 1,
+                         "downedWarning": 1,
+                               "endStat": 1,
+                        "hostageChanged": 1,
+                               "messiah": 1,
+                       "midstatAnnounce": 1,
+                            "minionShot": 1
+                   },
+         "corner": {
+                           "defaultFont": false,
+                          "detailedOnly": true,
+                               "opacity": 60,
+                       "showClockIngame": true,
+                                  "size": 15
+                   },
+          "float": {
+                       "frame": true
+                   },
+           "game": {
+                            "colorizeCrimenet": true,
+                                 "corpseLimit": 1,
+                       "fasterAIDesyncResolve": 2,
+                                 "romanInfamy": false,
+                            "subtitleFontSize": 22,
+                             "subtitleOpacity": 60
+                   },
+    "playerFloat": {
+                       "uppercaseNames": false
+                   },
+           "root": {
+                              "colorNegative": "Firebrick",
+                                   "language": "RU",
+                       "showMusicTitlePrefix": "Сейчас играет:",
+                               "shuffleMusic": true
+                   }
+}

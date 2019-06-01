@@ -1,0 +1,1 @@
+{"fire_dot":true,"cops_reload":true,"shotgun_push":true,"dozers_walk":true,"last_msg_id":"20190304","instant_quit":true,"shotgun_turret":true,"shotgun_dozer_face":true,"gambler":true,"dozers_counting":true}

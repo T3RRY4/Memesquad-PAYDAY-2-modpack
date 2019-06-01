@@ -1,0 +1,1 @@
+{"chat_clock_use_heist_time_value":false,"chat_clock_format_real_time_value":2,"chat_clock_format_heist_time_value":3}

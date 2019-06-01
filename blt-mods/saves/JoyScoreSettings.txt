@@ -1,0 +1,1 @@
+{"popup_dur":0.5,"popup_fadeout":0.5,"hud_x":10.970607488328,"popup_fadein":0.3,"hud_y":130.21697394586,"popups_enabled":true,"popup_mode":3,"popup_show_unit_name":true}

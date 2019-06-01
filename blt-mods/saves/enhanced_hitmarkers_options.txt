@@ -1,0 +1,1 @@
+{"crit":"fe6869","kill_texture":"pirate K.texture","blend_mode":1,"shake":false,"body":"fefefe","hit_texture":"classic hit v2.texture","head":"fefe50"}

@@ -1,0 +1,20 @@
+{
+	"name": "Mouse Wheel Switch Weapons",
+	"description": "Lets you use both Mouse Wheel Up and Mouse Wheel Down, or bind other keys to Switch Weapons.",
+	"author": "Offyerrocker",
+	"contact": "Discord: Offyerrocker#3878",
+	"version": "1.0",
+	"blt_version" : 2,
+	"color" : "178 135 42",
+	"image" : "sws_icon.png",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/menumanager",
+			"script_path" : "menumanager.lua"
+		},
+		{
+			"hook_id" : "lib/units/beings/player/states/playerstandard",
+			"script_path" : "playerstandard.lua"
+		}
+	]
+}

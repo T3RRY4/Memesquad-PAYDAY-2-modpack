@@ -1,0 +1,1 @@
+{"jokers_hq":true,"specials_hq":false,"weapons":[],"keep_sounds":false,"force_hq":true,"add_animations":true,"keep_types":false}

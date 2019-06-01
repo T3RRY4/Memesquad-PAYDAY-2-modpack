@@ -1,0 +1,1 @@
+{	"enable_snow":false,	"chance_rain":20,	"chance_night":35,	"enable_coats_on_rain":true,	"enable_rain":true,	"enable_coats":true,	"enable_skybox":true,	"chance_snow":20,	"enable_sneak":true}

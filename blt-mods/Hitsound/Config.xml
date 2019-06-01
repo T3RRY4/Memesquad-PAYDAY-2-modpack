@@ -1,0 +1,19 @@
+<mod name="HitSound" global_key="HitSound">
+	<AssetUpdates id="14707" version="reborn-1.0" provider="modworkshop" use_local_dir="true" use_local_path="true"/>
+	<Localization directory="Loc" default="EN.txt"/>
+	<AddFiles directory="Assets">
+		<movie path="Hit"/>
+		<movie path="Kill"/>
+		<movie path="Head"/>
+	</AddFiles>
+	<Hooks>
+		<hook source_file="lib/managers/playermanager" file="Base.lua" />
+	</Hooks>
+	<Options build_menu="true" auto_load="true">
+		<options>
+			<option type="boolean" default_value="true" desc_id="EmptyId" name="OnHit"/>
+			<option type="boolean" default_value="false" desc_id="EmptyId" name="OnKill"/>
+			<option type="boolean" default_value="false" desc_id="EmptyId" name="OnHead"/>
+		</options>
+	</Options>
+</mod>

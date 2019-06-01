@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<mod>
+	<hooks script_path="hooks/" hook_id="lib/">
+		<group :hook_id="managers/">
+			<group :hook_id="menu/">
+				<post :script_path="weaponeditmodegui.lua" :hook_id="multiprofileitemgui"/>
+				<post :script_path="blackmarketgui.lua" :hook_id="blackmarketgui"/>
+			</group>
+			<post :script_path="blackmarketmanager.lua" :hook_id="blackmarketmanager"/>
+		</group>
+		<group :hook_id="units/weapons/">
+			<post :script_path="cosmeticsweaponbase.lua" :hook_id="cosmeticsweaponbase"/>
+			<post :script_path="newraycastweaponbase.lua" :hook_id="menuraycastweaponbase"/>
+			<post :script_path="newraycastweaponbase.lua" :hook_id="newraycastweaponbase"/>
+		</group>
+	</hooks>
+</mod>

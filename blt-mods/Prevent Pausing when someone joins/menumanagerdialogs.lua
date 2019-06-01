@@ -1,1 +1,0 @@
-function MenuManager:show_person_joining( ... ) end

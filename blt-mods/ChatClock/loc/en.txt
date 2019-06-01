@@ -1,0 +1,16 @@
+{
+	"chat_clock_menu_title" : "Chat Clock options",
+	"chat_clock_menu_desc" : "Configure Chat Clock",
+	"chat_clock_format_real_time_title" : "Real time formatting",
+	"chat_clock_format_real_time_desc" : "Change how real time timestamps are formatted in chat",
+	"chat_clock_format_time_hh_mm_ss" : "[HH:MM:SS]",
+	"chat_clock_format_time_hh_mm" : "[HH:MM]",
+	"chat_clock_format_time_mm_ss" : "[MM:SS]",
+	"chat_clock_format_time_hh_mm_ss_12hour" : "[HH:MM:SS PM]",
+	"chat_clock_format_time_hh_mm_12hour" : "[HH:MM PM]",
+	"chat_clock_format_time_dynamic" : "Dynamic",
+	"chat_clock_use_heist_time_title" : "Use heist time",
+	"chat_clock_use_heist_time_desc" : "Chose whether we use heist time or real time when in a heist",
+	"chat_clock_format_heist_time_title" : "Heist time formatting",
+	"chat_clock_format_heist_time_desc" : "Change how the heist time is formatted in chat"
+}

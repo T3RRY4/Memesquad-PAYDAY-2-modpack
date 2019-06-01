@@ -1,0 +1,1 @@
+{	"OnHit":false,	"OnKill":false,	"OnHead":true}

@@ -1,0 +1,1 @@
+{"fill_breakpoints":true,"show_spread_and_recoil":true,"last_used_difficulty":"overkill_290","use_preview_to_switch_breakpoints":true,"show_dlc_info":true}

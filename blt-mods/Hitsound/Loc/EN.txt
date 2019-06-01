@@ -1,0 +1,8 @@
+{
+    "HitSoundOptionsButtonTitleID" : "Hitsound",
+    "HitSoundOptionsButtonDescID" : "Change the behavior of the mod",
+    "HitSoundOnHitTitleID" : "Play on hit",
+    "HitSoundOnKillTitleID" : "Play on kill",
+    "HitSoundOnHeadTitleID" : "Play on headshot",
+    "EmptyId" : ""
+}

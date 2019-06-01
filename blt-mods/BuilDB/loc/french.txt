@@ -1,0 +1,8 @@
+{
+	"buildb_save_current" : "Sauvegarder",
+	"buildb_export_to_pd2skills" : "Exporter vers pd2skills",
+	"buildb_open_db" : "Ouvrir le fichier de profils",
+	"buildb_import" : "Importer",
+	"buildb_dialog_import_message" : "Vous vous apprêtez à remplacer votre profil de compétences !",
+	"buildb_dialog_import_btn_preview" : "Voir sur pd2skills"
+}

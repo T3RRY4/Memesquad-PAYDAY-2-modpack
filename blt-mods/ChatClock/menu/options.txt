@@ -1,0 +1,50 @@
+{
+	"menu_id" : "chat_clock_menu",
+	"parent_menu_id" : "blt_options",
+	"title" : "chat_clock_menu_title",
+	"description" : "chat_clock_menu_desc",
+	"items" : [
+		{
+			"type" : "multiple_choice",
+			"id" : "chat_clock_format_real_time",
+			"title" : "chat_clock_format_real_time_title",
+			"description": "chat_clock_format_real_time_desc",
+			"callback" : "chat_clock_format_real_time_multi",
+			"items" : [
+				"chat_clock_format_time_hh_mm_ss",
+				"chat_clock_format_time_hh_mm",
+				"chat_clock_format_time_hh_mm_ss_12hour",
+				"chat_clock_format_time_hh_mm_12hour"
+			],
+			"value" : "chat_clock_format_real_time_value",
+			"default_value" : 2
+		},
+		{
+			"type" : "divider",
+			"size" : 32
+		},
+		{
+			"type" : "toggle",
+			"id" : "chat_clock_use_heist_time",
+			"title" : "chat_clock_use_heist_time_title",
+			"description": "chat_clock_use_heist_time_desc",
+			"callback" : "chat_clock_use_heist_time_toggle",
+			"value" : "chat_clock_use_heist_time_value",
+			"default_value" : true
+		},
+		{
+			"type" : "multiple_choice",
+			"id" : "chat_clock_format_heist_time",
+			"title" : "chat_clock_format_heist_time_title",
+			"description": "chat_clock_format_heist_time_desc",
+			"callback" : "chat_clock_format_heist_time_multi",
+			"items" : [
+				"chat_clock_format_time_hh_mm_ss",
+				"chat_clock_format_time_mm_ss",
+				"chat_clock_format_time_dynamic"
+			],
+			"value" : "chat_clock_format_heist_time_value",
+			"default_value" : 3
+		}
+	]
+}

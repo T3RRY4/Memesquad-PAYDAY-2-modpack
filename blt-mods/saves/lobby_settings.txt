@@ -1,0 +1,1 @@
+{"reputation_permission":0,"reject_vac":false,"max_bots":22,"infamy_permission":0,"reject_play_time_threshold":0,"max_players":4,"reject_unknown_play_time":false,"lobby_permission":"public"}

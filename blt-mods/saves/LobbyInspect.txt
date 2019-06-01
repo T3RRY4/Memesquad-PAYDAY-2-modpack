@@ -1,0 +1,1 @@
+{"achievements":true,"steam_overlay":true,"mode":1,"vac":true,"friends":false,"skillpoints":true,"steamrep_overlay":true,"pd2stats_overlay":true,"pd2cheats":true,"hours":true,"rank":true,"language":5}

@@ -1,0 +1,8 @@
+{
+	"buildb_save_current" : "Save current",
+	"buildb_export_to_pd2skills" : "Export to pd2skills",
+	"buildb_open_db" : "Open builds file",
+	"buildb_import" : "Import from file",
+	"buildb_dialog_import_message" : "You are about to replace your current skillset!",
+	"buildb_dialog_import_btn_preview" : "Preview on pd2skills"
+}

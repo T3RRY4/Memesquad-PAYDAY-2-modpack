@@ -1,0 +1,8 @@
+{
+    "buildb_save_current" : "Guardar",
+    "buildb_export_to_pd2skills" : "Exportar a PD2Skills",
+    "buildb_open_db" : "Abrir Archivo de Builds",
+    "buildb_import" : "Importar del Archivo",
+    "buildb_dialog_import_message" : "Reemplazaras tu Build Actual!",
+    "buildb_dialog_import_btn_preview" : "Ver en PD2Skills"
+}

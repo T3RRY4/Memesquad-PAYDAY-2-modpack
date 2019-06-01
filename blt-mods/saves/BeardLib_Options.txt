@@ -1,0 +1,3 @@
+{	"MenuColor":"Color(1, 0, 0.25, 1)",	"ShowImages":true,	"DisabledMods":{
+	"_meta":"default_value"
+},	"ImportantNotice":true,	"DevMode":false}

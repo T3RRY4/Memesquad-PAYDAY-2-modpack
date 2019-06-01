@@ -1,0 +1,7 @@
+{
+	"show_damage_popup": true
+	"show_civilian_damage_popup": false
+	"damage_popup_headshot_color": 20
+	"damage_popup_headshot_flash_color": 21
+	"damage_popup_kill_color": 24
+}

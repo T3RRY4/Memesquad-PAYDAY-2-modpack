@@ -1,0 +1,14 @@
+{
+    "name" : "Revolver Animations for all pistols",
+    "description" : "Changes hold, aim, equip and unequip animations",
+    "author" : "Seamlink",
+    "contact" : "seamlink@me.com",
+    "version" : "1",
+
+	"hooks": [
+		{	
+			"hook_id" : "lib/tweak_data/weapontweakdata",
+			"script_path" : "pistolanimations.lua"
+		}
+	]
+}

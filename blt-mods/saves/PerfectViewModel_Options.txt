@@ -1,0 +1,42 @@
+{	"ApplyOnAll":false,	"Saved":{
+	"_meta":"default_value",
+	"__All":{
+	"standard":{
+	"shoulders":{
+	"translation":"Vector3(-1, -1, -2)",
+	"rotation":"Rotation(-3.33525e-009, -1.01613e-016, -0)"
+}
+},
+	"crouched":{
+	"shoulders":{
+	"translation":"Vector3(0, -5, -2)",
+	"rotation":"Rotation(0, 0, -0)"
+}
+}
+},
+	"judge":{
+	"standard":{
+	"shoulders":{
+	"translation":"Vector3(-1, 0, -2.172)",
+	"rotation":"Rotation(1.66762e-009, -1.5531e-018, -0.617143)"
+}
+},
+	"crouched":{
+	"shoulders":{
+	"translation":"Vector3(0, -1, -3.172)"
+}
+}
+},
+	"aa12":{
+	"crouched":{
+	"shoulders":{
+	"translation":"Vector3(-5, 1.552, -0.724749)"
+}
+},
+	"standard":{
+	"shoulders":{
+	"translation":"Vector3(-2, 5.552, -2)"
+}
+}
+}
+},	"ToggleKey":"f7",	"RefreshKey":"f5"}

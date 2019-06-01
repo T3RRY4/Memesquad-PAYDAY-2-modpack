@@ -1,0 +1,1 @@
+{"reset":false,"size":30.212255912135,"fadetime":3,"bgcolor":7,"textcolor":6}

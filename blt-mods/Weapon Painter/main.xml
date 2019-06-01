@@ -1,0 +1,9 @@
+<table name="Weapon Painter" color="Color(0.6, 0.9, 0.1)" image="guis/mod_icons/weapon_painter">
+	<AssetUpdates id="24502" version="1.1.1" provider="modworkshop"/>
+
+	<Localization directory="localization" default="english.txt"/>
+
+	<AddFiles directory="assets">
+		<texture path="guis/mod_icons/weapon_painter"/>
+	</AddFiles>
+</table>

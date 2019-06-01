@@ -1,0 +1,39 @@
+{
+	"menu_id" : "sws_menu_main",
+	"parent_menu_id" : "blt_options",
+	"title" : "sws_menu_title",
+	"description" : "sws_menu_desc",
+	"items" : [
+		{
+			"type" : "button",
+			"id" : "id_sws_bind_info",
+			"title" : "sws_bind_info_title",
+			"description" : "sws_bind_info_desc",
+			"callback" : "scrollwheelswap_showinfo"
+		},
+		{
+			"type" : "divider",
+			"size" : 32
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_sws_bind_1",
+			"title" : "sws_bind_1_title",
+			"description" : "sws_bind_1_desc",
+			"keybind_id" : "sws_bind_1",
+			"binding" : "mouse wheel up",
+			"run_in_game" : true,
+			"func" : "scrollwheelswap_bind_1"
+		},
+		{
+			"type" : "keybind",
+			"id" : "id_sws_bind_2",
+			"title" : "sws_bind_2_title",
+			"description" : "sws_bind_2_desc",
+			"keybind_id" : "sws_bind_2",
+			"binding" : "mouse wheel down",
+			"run_in_game" : true,
+			"func" : "scrollwheelswap_bind_2"
+		}
+	]
+}

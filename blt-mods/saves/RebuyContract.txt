@@ -1,0 +1,1 @@
+{"difficulty":"overkill_290","professional":false,"difficulty_id":7,"customize_contract":true,"competitive":false,"job_id":"run","contract_visuals":{"preview_image":{"id":"heat_street"},"max_mission_xp":[26000,26000,26000,26000,260000,26000,26000],"min_mission_xp":[26000,26000,26000,26000,26000,26000,26000]}}

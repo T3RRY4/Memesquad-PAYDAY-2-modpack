@@ -1,0 +1,1 @@
+{"ready_color_value":"66FF66","join_color_value":"99FFFF","unready_color_value":"FF3333","join_text_value":"ПРИСОЕДИНЯЕТСЯ","ready_text_value":"ГОТОВ","dropin_text_value":"Загрузка","unready_text_value":"НЕ ГОТОВ","dropin_color_value":"FFFF99"}

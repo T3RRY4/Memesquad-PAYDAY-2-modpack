@@ -1,0 +1,1 @@
+{"disable":true,"active":2,"hacker_cancer":true,"fixed":true,"multiplier":1,"combat_cancer":true}

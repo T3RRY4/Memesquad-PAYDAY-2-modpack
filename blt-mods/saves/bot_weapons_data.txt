@@ -1,0 +1,1 @@
+{"weapon_customized_chance":0.5,"player_carry":true,"use_lasers":true,"weapon_balance":true,"use_flashlights":true,"debug":false,"mask_customized_chance":0.5,"sync_settings":true,"weapon_cosmetics_chance":0.5}
