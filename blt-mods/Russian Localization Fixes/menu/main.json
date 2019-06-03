@@ -1,0 +1,10 @@
+{
+	"menu_id" : "ruslocfixes_opt",
+	"title" : "ruslocfixes",
+	"back_callback" : "ruslocfixes_save",
+	"parent_menu_id" : "blt_options",
+	"items" : 
+	[
+		
+	]
+}

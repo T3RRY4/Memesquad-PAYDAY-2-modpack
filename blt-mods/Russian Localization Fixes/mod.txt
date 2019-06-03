@@ -1,0 +1,33 @@
+{
+	"name" : "Russian localization fixes",
+	"description" : "Дополняет локализацию",
+	"author" : "\nandole\nCaptain Toof\nchrom[K]a\nfusioN\nI'm Just Wicked\nx(GOREMAGEDDON)x\nSylvanas Windrunner",
+	"contact" : "http://steamcommunity.com/id/andole",
+	"version" : "7",
+	"image" : "logo.png",
+	"color" : "0.6 0.4 0.86",
+	"blt_version" : 2.0,
+	"hooks" : [
+	{   
+        	"hook_id" : "lib/managers/localizationmanager",
+        	"script_path" : "localizationmanager.lua"
+	},
+	{   
+        	"hook_id" : "lib/managers/menu/movietheatergui",
+        	"script_path" : "movietheatergui.lua"
+	},
+	{   
+        	"hook_id" : "lib/managers/menu/extendedpanel",
+        	"script_path" : "extendedpanel.lua"
+	},
+	{
+		"hook_id": "lib/setups/gamesetup",
+		"script_path": "gamesetup.lua"
+	},
+	{
+		"hook_id" : "lib/managers/localizationmanager",
+		"script_path" : "updates.lua"
+
+	}
+	]
+}
