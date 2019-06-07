@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/88jUKGi.png)
 # Модпак Мемсквада [![Discord][discordImg]][discordLink]
-[discordImg]: https://img.shields.io/discord/481441938118279180.svg?color=7289DA&label=discord&logo=discord&logoColor=white
+[discordImg]: https://img.shields.io/discord/481441938118279180.svg?label=Discord&logo=discord&style=social
 [discordLink]: https://discord.gg/SKzuWkt
 *Все моды из этого модпака взяты с [ModWorkshop.NET](https://modworkshop.net/) и [PaydayMods.COM](https://paydaymods.com/). Вы можете найти их на этих сайтах.*
 *Every single mod from this modpack is taken from [ModWorkshop.NET](https://modworkshop.net/) and [PaydayMods.COM](https://paydaymods.com/). You can find them on those sites.*
